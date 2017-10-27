@@ -60,7 +60,7 @@ exports.initial_witnesses = [
 ];
 */
 exports.initial_peers = [
-	'wss://trustgraph.org/bb'
+	'wss://trustgraph.org/tg'
 ];
 
 console.log('finished relay conf');
