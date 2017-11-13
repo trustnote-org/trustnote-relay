@@ -60,7 +60,7 @@ exports.initial_witnesses = [
 ];
 */
 exports.initial_peers = [
-	'wss://trustgraph.org/tg'
+	'ws://172.16.0.6/tg'
 ];
 
 console.log('finished relay conf');
