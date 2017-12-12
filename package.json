@@ -1,27 +1,27 @@
 {
-  "name": "trustgraph-relay",
-  "description": "Trustgraph Relay",
-  "author": "Trustgraph",
+  "name": "trustnote-relay",
+  "description": "Trustnote Relay",
+  "author": "Trustnote",
   "version": "0.1.0",
   "main": "start.js",
   "keywords": [
     "relay",
-    "trustgraph",
+    "trustnote",
     "full node"
   ],
   "license": "MIT",
   "repository": {
-    "url": "https://gitee.com/trustgraph/trustgraph-relay.git",
+    "url": "https://gitee.com/trustnote/trustnote-relay.git",
     "type": "git"
   },
   "bugs": {
-    "url": "https://gitee.com/trustgraph/trustgraph-relay/issues"
+    "url": "https://gitee.com/trustnote/trustnote-relay/issues"
   },
   "browser": {
     "request": "browser-request",
     "secp256k1": "secp256k1/js"
   },
   "dependencies": {
-    "trustgraph-common": "git+ssh://git@gitee.com:trustgraph/trustgraph-common.git"
+    "trustnote-common": "git+ssh://git@gitee.com:trustnote/trustnote-common.git"
   }
 }
