@@ -1,7 +1,7 @@
 {
   "name": "trustnote-relay",
-  "description": "Trustnote Relay",
-  "author": "Trustnote",
+  "description": "TrustNote Relay",
+  "author": "TrustNote",
   "version": "0.1.0",
   "main": "start.js",
   "keywords": [
@@ -11,17 +11,17 @@
   ],
   "license": "MIT",
   "repository": {
-    "url": "https://gitee.com/trustnote/trustnote-relay.git",
+    "url": "https://github.com/trustnote/trustnote-relay.git",
     "type": "git"
   },
   "bugs": {
-    "url": "https://gitee.com/trustnote/trustnote-relay/issues"
+    "url": "https://github.com/trustnote/trustnote-relay/issues"
   },
   "browser": {
     "request": "browser-request",
     "secp256k1": "secp256k1/js"
   },
   "dependencies": {
-    "trustnote-common": "git+ssh://git@gitee.com:trustnote/trustnote-common.git"
+    "trustnote-common": "git+https://github.com/trustnote/trustnote-common.git"
   }
 }

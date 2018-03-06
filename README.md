@@ -1,6 +1,6 @@
-# Relay for Trustnote network
+# Relay for TrustNote network
 
-This is a node for Trustnote network that stores the entire database and forwards new storage units to peers.  The relay does not hold any private keys and cannot send payments itself.
+This is a node for TrustNote network that stores the entire database and forwards new storage units to peers.  The relay does not hold any private keys and cannot send payments itself.
 
 ## Install
 
@@ -16,4 +16,4 @@ node start.js > log &
 ```
 ## Customize
 
-If you want to change any defaults, refer to the documentation of [trustnote-common](../../../trustnote-common), the core Trustnote library `require()`'d from here.
+If you want to change any defaults, refer to the documentation of [trustnote-common](../../../trustnote-common), the core TrustNote library `require()`'d from here.
