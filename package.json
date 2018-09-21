@@ -21,6 +21,6 @@
         "url": "https://github.com/trustnote/trustnote-relay/issues"
     },
     "dependencies": {
-        "trustnote-common": "git+https://github.com/trustnote/trustnote-common.git"
+        "trustnote-common": "^0.1.0"
     }
 }
