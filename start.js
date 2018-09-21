@@ -1,5 +1,5 @@
 "use strict";
-var conf = require('trustnote-common/conf.js');
+var conf = require('./conf.js');
 var myWitnesses = require('trustnote-common/my_witnesses.js');
 
 function replaceConsoleLog() {
