@@ -24,8 +24,8 @@ exports.initial_witnesses = [
 ];
 
 exports.initial_peers = [
-	'wss://raytest.trustnote.org',
-	'wss://shawtest.trustnote.org'
+	'ws://raytest.trustnote.org:6616',
+	'ws://shawtest.trustnote.org:6617'
 ];
 
 console.log('finished relay conf');
