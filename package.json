@@ -2,7 +2,7 @@
     "name": "trustnote-relay",
     "description": "TrustNote Relay",
     "author": "TrustNote",
-    "version": "1.0.5",
+    "version": "1.0.6",
     "main": "start.js",
     "scripts": {
         "start": "node start.js"
